@@ -1,0 +1,16 @@
+.product-row {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    align-items: left;
+    border: 1px solid black;
+    padding: 1rem;
+    position: relative;
+    justify-content: center;
+}
+
+.assets-product {
+    display: flex;
+    flex-direction: column;
+}
