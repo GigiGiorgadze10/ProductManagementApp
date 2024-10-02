@@ -13,7 +13,7 @@
 }
 .navigations {
     display: flex;
-    gap: 40px;
-    font-size: 15px;
+    gap: 180px;
+    font-size: 20px;
     cursor: pointer;
 }
